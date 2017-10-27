@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "simple rustfull api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilthankachen/nodejs-api.git"
+  },
+  "author": "akhil thankachen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilthankachen/nodejs-api/issues"
+  },
+  "homepage": "https://github.com/akhilthankachen/nodejs-api#readme"
+}
