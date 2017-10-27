@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/akhilthankachen/nodejs-api/issues"
   },
-  "homepage": "https://github.com/akhilthankachen/nodejs-api#readme"
+  "homepage": "https://github.com/akhilthankachen/nodejs-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
 }
