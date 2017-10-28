@@ -4,6 +4,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 
 // connect to database
+mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://localhost/ApiAuth');
 
 const app = express();
