@@ -9,7 +9,7 @@ module.exports = {
             }
 
             if(!req.value){req.value = {};}
-            req.value['body'] = req.value;
+            req.value['body'] = req.body;
             next();
         }
     },
